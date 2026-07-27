@@ -14,7 +14,7 @@ Important Note on System Modeling:
 
 "Sistem pertumbuhan dimodelkan melalui suatu operator evolusi M, yang digunakan sebagai mekanisme untuk menghasilkan konfigurasi spasial pada setiap langkah simulasi. Dalam penelitian ini, operator tersebut bukan merupakan objek utama analisis, melainkan sarana untuk menghasilkan data yang kemudian dianalisis menggunakan indikator topologi dan geometri."
 
-This study demonstrates that combining topological indicators (such as the loop-formation rate $$g(V) = d\beta_1/dV$$) and geometric scaling metrics (E(V) = d ln A / d ln V) yields a significantly more robust crossover criterion compared to traditional curve-shape fitting or arbitrary scalar thresholds.
+This study demonstrates that combining topological indicators (such as the loop-formation rate $$g(V) = d\beta_1/dV$$) and geometric scaling metrics $$(E(V) = d ln A / d ln V)$$ yields a significantly more robust crossover criterion compared to traditional curve-shape fitting or arbitrary scalar thresholds.
 
 ## REPOSITORY STRUCTURE
 ```
