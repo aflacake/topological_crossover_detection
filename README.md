@@ -1,3 +1,5 @@
+![FRAKTAL METODE KONVENSIONAL & MODERN](FRAKTAL_METODE_KONVENSIONAL_MODERN.PNG)
+
 # TOPOLOGICAL CROSSOVER DETECTION IN SPATIAL GROWTH SYSTEMS
 This repository contains the simulation source code, data extraction pipeline, and numerical validation scripts for the research paper:
 
